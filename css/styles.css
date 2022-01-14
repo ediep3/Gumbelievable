@@ -159,6 +159,12 @@ p {
   margin-bottom: 15px;
 }
 
+footer p {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
 /* layout */
 
 nav {
