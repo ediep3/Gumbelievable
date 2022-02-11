@@ -1,0 +1,21 @@
+﻿/* TEAM */
+	Designer/Developer:Ethan Diep
+	Contact: gumbelievablealberta@gmail.com
+	From:Northern Alberta, Canada
+
+
+/* THANKS */
+
+	Iubenda - Privacy Policy
+	Wix - Logo
+	Google Analytics - Analytics
+	Netlify - Web Hosting
+	Github - Site Storage
+	Squoosh - Image Compression
+		
+
+/* SITE */
+	Last update:2021/02/11
+	Language: English
+	Doctype:HTML5
+	IDE: Visual Studio Code, Notepad++, Photoshop, 
