@@ -1,12 +1,10 @@
-Privacy Policy of gumbelievable.netlify.app/
-This Application collects some Personal Data from its Users.
-
-
-This document can be printed for reference by using the print command in the settings of any browser.
-
 Owner and Data Controller
+Gumbelievable
+
+Owner contact email: gumbelievablealberta@gmail.com
+
 Types of Data collected
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Tracker; Usage Data.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Usage Data; Tracker; Data communicated while using the service.
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.
@@ -52,7 +50,7 @@ The Owner may be allowed to retain Personal Data for a longer period whenever th
 Once the retention period expires, Personal Data shall be deleted. Therefore, the right of access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
 The purposes of processing
-The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Access to third-party accounts, Analytics and Displaying content from external platforms.
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Access to third-party accounts, Tag Management and Hosting and backend infrastructure.
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
@@ -73,8 +71,36 @@ Detailed information on the processing of Personal Data
 Personal Data is collected for the following purposes and using the following services:
 
 Access to third-party accounts
-Analytics
-Displaying content from external platforms
+This type of service allows this Application to access Data from your account on a third-party service and perform actions with it.
+These services are not activated automatically, but require explicit authorization by the User.
+
+Facebook account access (Meta Platforms, Inc.)
+This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
+Permissions asked: Link.
+
+Place of processing: United States – Privacy Policy.
+
+Hosting and backend infrastructure
+This type of service has the purpose of hosting Data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application.
+
+Some services among those listed below, if any, may work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+
+Netlify (Netlify, Inc.)
+Netlify is a hosting service provided by Netlify, Inc.
+Personal Data processed: Data communicated while using the service.
+
+Place of processing: United States – Privacy Policy.
+
+Tag Management
+This type of service helps the Owner to manage the tags or scripts needed on this Application in a centralized fashion.
+This results in the Users' Data flowing through these services, potentially resulting in the retention of this Data.
+
+Google Tag Manager (Google LLC)
+Google Tag Manager is a tag management service provided by Google LLC.
+Personal Data processed: Tracker; Usage Data.
+
+Place of processing: United States – Privacy Policy.
+
 The rights of Users
 Users may exercise certain rights regarding their Data processed by the Owner.
 
@@ -157,9 +183,3 @@ Legal information
 This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
-
-Latest update: January 28, 2022
-
-iubenda hosts this content and only collects the Personal Data strictly necessary for it to be provided.
-
-Privacy Policy generated with iubenda
