@@ -255,6 +255,43 @@ main {
   width: 80%;
 }
 
+.contest h2 {
+  text-align: center;
+  color: #e2b9e4;
+  text-decoration: underline;
+}
+
+.contest-button {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.contest button {
+  background: linear-gradient(to bottom right, #e2b9e4, pink);
+  border: 0;
+  border-radius: 16px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 20px;
+  line-height: 3;
+  outline: transparent;
+  padding: 10px 50px 10px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+button:hover {
+  text-decoration: underline;
+}
+
+.contest article {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
 article img {
   border: none;
   -webkit-box-shadow: 3px 3px 7px #777;
