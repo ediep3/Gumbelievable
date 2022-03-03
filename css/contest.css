@@ -168,6 +168,12 @@ p {
   text-decoration-color: pink;
 }
 
+.requirements li {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color: rgb(255, 156, 172);
+}
+
 .phases {
   text-align: center;
 }
