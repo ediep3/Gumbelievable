@@ -282,6 +282,52 @@ main {
   text-transform: uppercase;
 }
 
+whats-new {
+  width: 100%;
+}
+
+.whats-new h2 {
+  text-align: center;
+  color: #e2b9e4;
+  text-decoration: underline;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.whats-new p a {
+  color: #e2b9e4;
+}
+
+.image-container2 {
+  width: 100%;
+  display: flex;
+  padding-bottom: 20px;
+}
+
+figure {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+figcaption {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-size: 12px;
+  text-align: center;
+}
+
+figure .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.quote p {
+  font-weight: bolder;
+}
+
 button:hover {
   text-decoration: underline;
 }
@@ -292,7 +338,16 @@ button:hover {
   width: 80%;
 }
 
-article img {
+.contest h3 {
+  font-size: 30px;
+  color: pink;
+  padding-top: 20px;
+  text-decoration: underline;
+  text-underline-offset: 8px;
+  text-decoration-color: pink;
+}
+
+.content img {
   border: none;
   -webkit-box-shadow: 3px 3px 7px #777;
   -moz-box-shadow: 3px 3px 7px #777;
